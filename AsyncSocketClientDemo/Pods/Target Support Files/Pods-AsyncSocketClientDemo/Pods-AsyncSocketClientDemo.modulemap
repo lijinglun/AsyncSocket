@@ -1,0 +1,6 @@
+framework module Pods_AsyncSocketClientDemo {
+  umbrella header "Pods-AsyncSocketClientDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
